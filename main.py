@@ -20,7 +20,7 @@ vectorlake = VectorLake()
 modellake = ModelLake()
 
 # Global variable to store vectorlake_id
-vectorlake_id = None
+vectorlake_id = "o1lqfswxregw81ye"
 
 
 class ChatRequest(BaseModel):
